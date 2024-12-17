@@ -11,4 +11,4 @@ Real-time updates and interactive features
 
 👉 Check it out and let me know your thoughts!
 
-Link:  [blog-project-react-ten.vercel.app](https://blog-project-react-j3xk804yv-sumeshp09s-projects.vercel.app/)
+Link:  [blog-project-react-ten.vercel.app](https://blog-project-react-git-main-sumeshp09s-projects.vercel.app)
